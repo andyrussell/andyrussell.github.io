@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<img width=“964” src=“https://raw.githubusercontent.com/andyrussell/andyrussell.github.io/master/images/CV_AR_website_1.jpg”>
-
+![CV](https://raw.githubusercontent.com/andyrussell/andyrussell.github.io/master/images/CV_AR_website_1.jpg)
