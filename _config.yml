@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,10 +99,10 @@ author:
   github           : "andyrussell"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/ajcrscience/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://uk.linkedin.com/in/andy-russell-a566ba62"
   orcid            : "http://orcid.org/0000-0001-5411-2807"
   pinterest        :
   soundcloud       :
